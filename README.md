@@ -1,4 +1,4 @@
-# Playground
+# Playground - Manu Collaborator
 
 A place to play with `git`.
 
